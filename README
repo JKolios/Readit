@@ -1,0 +1,3 @@
+Redit Trend Logger
+
+Retrieves the top 50 submissions across all subreddits of reddit.com and compares this list to one previously stored. The variation of link karma scores between the lists is noted in a text report file.
