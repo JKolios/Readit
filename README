@@ -1,3 +1,8 @@
 Redit Trend Logger
 
-Retrieves the top 50 submissions across all subreddits of reddit.com and compares this list to one previously stored. The variation of link karma scores between the lists is noted in a text report file.
+Retrieves the top 50 submissions across all subreddits of reddit.com and compares this list to one previously stored.
+The variation of link karma scores between the lists is noted in a text report file.
+
+Mostly a Python coding exercise, not meant for any real-world use.
+
+Uses Deimos's python wrapper for the Reddit API (https://github.com/Deimos/reddit_api).
