@@ -5,4 +5,4 @@ The variation of link karma scores between the lists is noted in a text report f
 
 Mostly a Python coding exercise, not meant for any real-world use.
 
-Uses Deimos's python wrapper for the Reddit API (https://github.com/Deimos/reddit_api).
+Uses mellort's python wrapper for the Reddit API (https://github.com/mellort/reddit_api).
